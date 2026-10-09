@@ -1,4 +1,4 @@
-site_name: Documentação - Pesquisa de Preços Lite
+site_name: Licitações Eletrônicas no Novo DC
 
 theme:
   name: readthedocs
@@ -9,10 +9,11 @@ markdown_extensions:
 
 nav:
   - Início: index.md
-  - 1. Acesso e Autenticação: 01-acesso-autenticacao.md
-  - 2. Nova Pesquisa e Adição de Itens: 02-nova-pesquisa.md
-  - 3. Edição e Gestão de Cotações: 03-edicao-gestao.md
-  - 4. Resumo e Relatórios: 04-resumo-relatorios.md
+  - 1. Criar a Contratação: 01-criar-contratacao.md
+  - 2. Preenchimento de Dados da Contratação: 02-preenchimento-dados.md
+  - 3. Inclusão de Itens e Formação de Grupos: 03-inclusao-itens.md
+  - 4. Anexos, Responsáveis e Publicação: 04-anexos-publicacao.md
+  - 5. Sistema de Registro de Preços (IRP): 05-sistema-registro-precos.md
   - 🖨️ Versão Completa para Impressão: manual-completo.md
 
 # Configuração dos estilos e scripts customizados
