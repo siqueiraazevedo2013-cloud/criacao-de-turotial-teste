@@ -9,11 +9,11 @@
   </button>
 </div>
 
-<p style="font-weight: bold; color: #d9534f; margin-top: -5px; margin-bottom: 20px;">PÚBLICO-ALVO: CIDADÃOS, FORNECEDORES E PESQUISADORES</p>
+<p style="font-weight: bold; color: #d9534f; margin-top: -5px; margin-bottom: 20px;">PÚBLICO-ALVO: AGENTES DE CONTRATAÇÃO</p>
 
-# Tutorial do Usuário: Pesquisa de Preços Lite
+# Tutorial: Licitações eletrônicas no Novo DC
 
-Este tutorial apresenta, de forma prática, o passo a passo sobre como realizar consultas, pesquisar valores de referência e navegar pelas informações disponíveis a respeito das compras públicas na plataforma Pesquisa de Preços Lite.
+Agora todas as licitações eletrônicas são realizadas exclusivamente pelo Novo Divulgação de Compras (Novo DC), disponível no sistema Compras.gov.br. Neste tutorial, abordamos o passo a passo para publicação de uma concorrência eletrônica no Novo DC, abrangendo a criação da contratação, preenchimento de dados, inclusão de itens e Intenção de Registro de Preços (IRP).
 
 ---
 
@@ -22,10 +22,11 @@ Este tutorial apresenta, de forma prática, o passo a passo sobre como realizar 
 Você pode acessar as etapas específicas que quer consultar ou ver o manual completo, com todas as seções. Para isso, selecione o que quer ler no menu ao lado ou abaixo. Você também pode baixar ou imprimir cada uma dessas páginas ou o manual completo.
 
 * **Padrão - escolha a seção específica que quer acessar:**
-  * [1. Acesso e Autenticação](01-acesso-autenticacao.md)
-  * [2. Nova Pesquisa e Adição de Itens](02-nova-pesquisa.md)
-  * [3. Edição e Gestão de Cotações](03-edicao-gestao.md)
-  * [4. Resumo e Relatórios](04-resumo-relatorios.md)
+  * [1. Criar a Contratação](01-criar-contratacao.md)
+  * [2. Preenchimento de Dados da Contratação](02-preenchimento-dados.md)
+  * [3. Inclusão de Itens e Formação de Grupos](03-inclusao-itens.md)
+  * [4. Anexos, Responsáveis e Publicação](04-anexos-publicacao.md)
+  * [5. Sistema de Registro de Preços (IRP)](05-sistema-registro-precos.md)
 
 * **Página única:**
   * [🖨️ Todo o manual em uma tela (Versão para Impressão)](manual-completo.md)
