@@ -9,137 +9,333 @@
   </button>
 </div>
 
-<p style="font-weight: bold; color: #d9534f; margin-top: -5px; margin-bottom: 20px;">PÚBLICO-ALVO: CIDADÃOS, FORNECEDORES E PESQUISADORES</p>
+<p style="font-weight: bold; color: #d9534f; margin-top: -5px; margin-bottom: 20px;">PÚBLICO-ALVO: AGENTES DE CONTRATAÇÃO</p>
 
-# Tutorial do Usuário: Pesquisa de Preços Lite
+# Tutorial: Licitações eletrônicas no Novo DC
 
-Este tutorial apresenta, de forma prática, o passo a passo sobre como realizar consultas, pesquisar valores de referência e navegar pelas informações disponíveis a respeito das compras públicas na plataforma Pesquisa de Preços Lite.
+Agora todas as licitações eletrônicas são realizadas exclusivamente pelo Novo Divulgação de Compras (Novo DC), disponível no sistema Compras.gov.br. Neste tutorial, abordamos o passo a passo para publicação de uma concorrência eletrônica no Novo DC, abrangendo a criação da contratação, preenchimento de dados, inclusão de itens e Intenção de Registro de Preços (IRP).
 
 <br>
 
-# 1. ACESSO E AUTENTICAÇÃO
+# 1. CRIAR A CONTRATAÇÃO
 
-**Passo 01:** Acesse o portal de compras do governo federal: [https://www.compras.gov.br](https://www.compras.gov.br).
+**Passo 1:** Acesse o Portal de Compras do Governo Federal e clique em "Acesso ao Sistema".
 
-**Passo 02:** No canto superior esquerdo, localize o ícone com três linhas.
+![Tela 01](Imagens/01-acesso-portal-compras.png)
 
-![Tela Ícone Menu](Imagens/AA.png)
+**Passo 2:** Escolha o perfil Governo e clique em "Entrar com Gov.br".
 
-**Passo 03:** Ao clicar, será exibido um menu lateral. Nele, arraste o cursor até a opção “Sistemas”, depois “Compras.gov.br” e, em seguida, “Pesquisa de Preços”.
+![Tela 02](Imagens/02-login.png)
 
-![Tela Menu Sistemas](Imagens/BB.png)
+**Passo 3:** Na área de trabalho do usuário Governo, clique em "Novo Divulgação de Compras".
 
-**Passo 04:** Na página do Pesquisa de Preços, clique no botão “Pesquisa de Preços Lite”.
+![Tela 03](Imagens/03-acesso-modulo-Novo-DC.png)
 
-**Passo 05:** Caso deseje recuperar pesquisas anteriores ou garantir que sua nova consulta fique salva, clique em "Entrar com GOV.BR" no canto superior direito e faça a autenticação com seu CPF e senha.
+**Passo 4:** E em seguida clique em "+Criar".
 
-![Tela Entrar com Gov BR](Imagens/PPLite-1A.png)
+![Tela 04](Imagens/04-criar-contratacao.png)
 
-**Passo 06 (Recuperação):** Após o login, a página inicial exibirá a lista "Minhas Pesquisas". Para recuperar uma consulta salva anteriormente e continuar a edição ou emitir relatórios, localize a pesquisa desejada e clique no ícone de "Abrir/Visualizar" (ou no título da pesquisa).
+**Passo 5:** Preencha todas as informações relacionadas ao processo e clique em "Concluir".
 
-![Tela Minhas Pesquisas](Imagens/PPLite-1B.png)
+![Tela 05](Imagens/05-dados-da-contratacao.png)
+
+<br>
+
+# 2. PREENCHIMENTO DE DADOS DA CONTRATAÇÃO
+
+**Passo 6:** Encontre a contratação desejada na aba Contratações Minhas Uasg. Em seguida, clique em "Editar".
+
+![Tela 06](Imagens/06-editar-contratacao.png)
+
+**Passo 7:** Na aba Dados Básicos da Contratação, preencha o número do processo, o número de controle interno da UASG e, no Tipo de contratação, escolha a modalidade de licitação.
 
 !!! note "Nota"
-    Caso deseje iniciar uma pesquisa do zero (com ou sem login), clique no botão "Nova Pesquisa" e siga para os passos seguintes.
+    O número de controle interno da UASG tem por objetivo permitir que cada órgão tenha seu controle de processos, registrado no sistema para melhor rastreabilidade. O preenchimento desse número é facultativo.
 
-<br>
+![Tela 07](Imagens/07-modalidade.png)
 
-# 2. NOVA PESQUISA E ADIÇÃO DE ITENS
+!!! warning "Atenção"
+    Neste manual, faremos o passo a passo de uma concorrência, mas as demais modalidades seguem os mesmos passos.
 
-**Passo 07:** Preencha as informações básicas da consulta como título e observações e clique em “Itens”.
+**Passo 8:** Para definir o Fundamento legal da contratação, clique no ícone de lápis.
 
-![Tela Informações Básicas](Imagens/PPLite-2.png)
+![Tela 08](Imagens/08-editar-fundamento.png)
 
-**Passo 08:** Na opção “Itens”, clique em “Adicionar Item” para incluir o material ou serviço que deseja pesquisar.
+Navegue pela lista de fundamentos legais disponíveis no sistema. Detalhe os fundamentos legais disponíveis e quando localizar a opção adequada, clique sobre o texto e, em seguida, clique em "Salvar".
 
-![Tela Adicionar Item](Imagens/Screenshot_18.jpg)
+![Tela 09](Imagens/09-editar-fundamento.png)
 
-**Passo 09:** No campo de texto descreva de forma resumida o item que deseja pesquisar e selecione a opção mais adequada: Material ou Serviço.
+**Passo 9:** Em Modo de disputa, selecione a opção de acordo com a definição do edital - aberto, fechado, aberto/fechado ou fechado/aberto. Os modos de disputa exibidos em tela variam de acordo com a modalidade da licitação.
 
-![Tela Descrição do Item](Imagens/Screenshot_19.jpg)
+![Tela 10](Imagens/10-modo-disputa.png)
+
+**Passo 10:** Em Critério de julgamento, selecione a opção adequada ao seu processo, em conformidade com seu edital.
+
+![Tela 11](Imagens/11-criterio-julgamento.png)
+
+**Passo 11:** Em Forma de realização, selecione entre "eletrônico" e "presencial".
 
 !!! note "Nota"
-    O sistema mostra as opções do catálogo do Compras.gov.br. Os itens que aparecem com a letra M antes do nome correspondem aos materiais e aqueles que aparecem com S são serviços. Ex: Você escreveu Computador. É um material. Na lista, vai aparecer: "M - Computador". Mas se você escreveu Manutenção de Computador, o que aparece é “S - Manutenção de Computador”, como mostra a tela abaixo.
-    
-    ![Tela Material vs Serviço](Imagens/Screenshot_20.jpg)
+    A opção "Eletrônico" encaminhará seu processo para a sala de disputa virtual, onde fornecedores interessados se conectarão ao seu processo de forma virtual. Já a opção "Presencial" resultará na realização de sessão pública presencial, com a necessidade de documentação e registros em conformidade com a Lei nº 14.133/2021.
 
-**Passo 10:** No painel de consulta, selecione o item que melhor atende ao que deseja pesquisar, assim como a quantidade, a unidade de fornecimento e características necessárias para refinamento da pesquisa. Após identificar o item e preencher os campos de quantidade e unidade de fornecimento clique na opção “+” para incluir o item na lista de pesquisa.
+![Tela 12](Imagens/12-forma-realizacao.png)
 
-![Tela Inclusão de Item](Imagens/PPLite-4.png)
+**Passo 12:** Selecione o Tipo de objeto a ser licitado na lista apresentada no sistema. Essa opção ajudará o sistema a definir seus prazos mínimos de publicidade.
 
-<br>
+![Tela 13](Imagens/13-tipo-objeto.png)
 
-# 3. EDIÇÃO E GESTÃO DE COTAÇÕES
+**Passo 13:** Para obras e serviços de engenharia, o sistema apresentará campo para informar Regime de execução do contrato.
 
-**Passo 11:** Caso deseje alterar a pesquisa, clique em “Editar item” (caneta) ou “Excluir Itens” (lixeira vermelha).
+![Tela 14](Imagens/14-regime-execucao.png)
 
-![Tela Editar Item](Imagens/PPLite-9.png)
+**Passo 14:** Preencha os campos de Categoria e Moeda da Compra. As demais informações contidas na tela correspondem às inseridas na criação da contratação e poderão ser editadas caso seja necessário.
 
-**Passo 12:** Após clicar em “Editar item” abrirá a tela de edição. No topo da página, o sistema exibe as informações oficiais do catálogo do sistema Compras.gov.br - CATMAT para materiais ou CATSER para serviços, a respeito do item selecionado:
+![Tela 15](Imagens/15-dados-adicionais.png)
 
-*   **Descrição do Item:** Mostra o código (catmat ou catser) e a descrição padronizada (Ex: 500075 - Caneta Esferográfica Material: Madeira).
-*   **Quantidade e Unidade de Fornecimento:** Indica a quantidade estipulada para a contratação e como o item é fornecido (Ex: Caixa 50 Unidade).
+**Passo 15:** Na aba Dados adicionais da contratação, preencha os dados do empenho para a publicação no Diário Oficial da União. Se necessário, consulte os dados de seu órgão para o preenchimento correto das informações.
 
-![Tela Informações do Item](Imagens/PPLite-11.png)
+![Tela 16](Imagens/16-dados-adicionais-contratacao.png)
 
-**Passo 13:** Faça as alterações necessárias e clique em “Aplicar”. O sistema confirma a atualização das unidades de fornecimento ou unidades, alertando que as cotações para aquele item serão atualizadas.
+**Passo 16:** Preencha as datas importantes do seu certame Início e fim de recebimento de propostas. Seu certame será iniciado na data e na hora que você digitar no campo "Data fim de recebimento de propostas".
 
-![Tela Aplicar Alterações](Imagens/Screenshot_25.jpg)
+![Tela 16 Repetida](Imagens/16-dados-adicionais-contratacao.png)
 
-**Passo 14:** Confirme a alteração do item.
+**Passo 17:** Por fim, caso o órgão ou entidade tenha processo eletrônico, preencha os dados de endereço do processo eletrônico referente a contratação e o Tipo de recurso, que poderá ser "Internacional", "Federal", "Distrital", "Estadual" ou "Municipal".
 
-![Tela Confirmar Alteração](Imagens/Screenshot_24.jpg)
-
-!!! tip "Dica"
-    Pronto, a cotação para aquele item foi atualizada. Para atualizar os demais itens, basta seguir novamente as instruções dos Passos 11 e 12.
-
-### Indicadores e Controle Estatístico
-
-O Pesquisa de Preços Lite exibe os seguintes indicadores em tempo real:
-
-*   **Métodos de Cálculo:** Permite visualizar e alternar o critério de obtenção do preço estimado entre Menor Preço, Média ou Mediana. O método selecionado influenciará diretamente no valor de referência calculado pelo sistema.
-*   **Painel de Controle Estatístico:** Localizado à direita, apresenta o Coeficiente de variação, o Desvio padrão e o Maior preço encontrado na amostra, servindo de parâmetro para analisar a homogeneidade e a segurança dos dados.
-
-O Pesquisa de Preços Lite também mostra a relação de contratações públicas que foram selecionadas para compor os preços.
-
-![Tela Painel Estatístico e Cotações](Imagens/Screenshot_22.jpg)
-
-Além disso, é possível detalhar as informações a respeito das compras. Ao expandir o registro, o usuário tem acesso completo às informações da compra, incluindo o número do processo, a modalidade de contratação (Ex: Dispensa), os dados do fornecedor, marca do produto e o critério de julgamento.
-
-!!! warning "Atenção"
-    É possível gerenciar as contratações que compõem a pesquisa de preços.
-    
-    *   Na coluna **Compor** é possível ativar ou desativar aquela cotação específica. Quando a opção estiver desativada, o valor é excluído dos cálculos estatísticos.
-    *   Na coluna **Ações**, o ícone de lixeira exclui o registro da lista do item.
+![Tela 17](Imagens/17-dados-adicionais-contratacao.png)
 
 <br>
 
-# 4. RESUMO E RELATÓRIOS
+# 3. INCLUSÃO DE ITENS E FORMAÇÃO DE GRUPOS
 
-**Passo 15:** Após preencher os campos obrigatórios de identificação e escolher as cotações que farão parte da sua pesquisa, clique na aba "Resumo".
+Agora existem duas formas de incluir itens em sua contratação: a partir da integração com o Catálogo para pesquisa ou por meio de planilha de itens previamente preenchida.
 
-![Tela Resumo](Imagens/PPLite-6.png)
+## 1. Inclusão de itens a partir da integração com o Catálogo
 
-Na página de Resumo será possível realizar as seguintes ações:
+**Passo 18:** Na aba Itens/Grupos, serão realizadas as inclusões dos itens da contratação. Para incluir diretamente do Catálogo integrado ao Novo DC, clique em "+Adicionar".
 
-*   **Baixar e salvar o Relatório resumido:** Para gerar o relatório resumido da pesquisa realizada em PDF, clique no botão "Resumido".
-*   **Baixar e salvar o Relatório Detalhado:** O relatório apresentará a média e a mediana dos últimos 12 meses, calculadas a partir das compras homologadas de todos os itens da consulta, junto com os dados de cada item. Clique no botão "Detalhado" para gerar.
+![Tela 19](Imagens/19-inclusao-itens-catalogo.png)
 
-![Tela Relatório Detalhado](Imagens/PPLite-7.png)
+**Passo 19:** Pesquise pelos termos desejados.
 
-*   **Exportar os dados obtidos:** Caso prefira extrair os dados e salvá-los em formato editável no seu computador, clique em "Exportar CSV" no canto superior direito.
-*   **Salvar a pesquisa na sua conta:** Para armazenar a consulta e acessá-la posteriormente, clique no botão "Salvar Pesquisa". Se você já realizou o login Gov.br no início, o sistema confirmará o salvamento imediatamente. Caso ainda não tenha feito login, abrirá a tela de autenticação do Gov.br para vincular a pesquisa ao seu perfil.
+![Tela 20](Imagens/20-inclusao-itens-catalogo.png)
 
-![Tela Salvar Pesquisa](Imagens/PPLite-6A.png)
+**Passo 20:** Escolha se é material ou serviço e procure pelo item desejado. Quando encontrado, clique em "Detalhar". Em seguida em clique em "+".
+
+![Tela 21](Imagens/21-inclusao-itens-catalogo.png)
+
+**Passo 21:** Verifique a unidade de fornecimento, inclua o valor unitário e clique em "Salvar". Repita os passos 18 a 21 para todos os itens de sua contratação.
+
+![Tela 22](Imagens/22-salvar-item.png)
+
+**Passo 22:** Depois de inseridos todos os itens, clique no carrinho localizado no canto superior direito.
+
+![Tela 23](Imagens/23-carrinho.png)
+
+**Passo 23:** Confirme a inclusão dos itens do carrinho.
+
+![Tela 24](Imagens/24-confirmar-inclusao.png)
+
+Pronto. Seus itens foram adicionados a sua contratação. Para finalizar a configuração de seus itens vá para o passo 28.
+
+## 2. Inclusão de itens por meio de uma planilha eletrônica
+
+Siga os passos abaixo para adicionar itens usando uma planilha eletrônica.
+
+**Passo 24:** Na aba Itens/Grupos, localize o ícone "Upload de itens".
+
+![Tela 26](Imagens/26-upload-itens.png)
 
 !!! warning "Atenção"
-    Ao clicar no botão "Home" ou em "Voltar" sem estar autenticado via Gov.br ou sem salvar a pesquisa, o sistema encerrará a consulta e os dados não ficarão salvos. 
-    
-    Para garantir que o seu trabalho não seja perdido e possa ser recuperado a qualquer momento, utilize o botão "Salvar Pesquisa" com o login Gov.br antes de sair.
-    
-    ![Tela Alerta Voltar](Imagens/PPLite-8.png)
+    O sistema apresentará um link com modelo de planilha para ser seguido. É importante que esse modelo seja seguido para a correta importação dos itens.
 
-**Suporte:** Caso tenha dúvidas ou precise de suporte, a Central de Atendimento do Ministério da Gestão e da Inovação em Serviços Públicos (MGI) está disponível pelo Portal de Serviços ou pelo telefone 0800 978 9001, de segunda a sexta-feira, das 8h às 18h.
+**Passo 25:** Faça o download da planilha de modelo e siga a ordem das colunas indicadas.
+
+![Tela 28](Imagens/28-download-planilha.png)
+
+**Passo 26:** Finalizada a edição de sua planilha, carregue no sistema clicando no botão "Selecione arquivo", carregue o documento e clique em "Confirmar". O sistema apresentará tela indicando que o carregamento dos itens foi iniciado com sucesso.
+
+![Tela 30](Imagens/30-carregamento-sucesso.png)
+
+Para acompanhar relatório de importação, clique em "Acompanhar importação de itens". O relatório apresentado indicará os possíveis erros no carregamento de dados. Se necessário, corrija os erros indicados no relatório e importe sua planilha novamente.
+
+![Tela 32](Imagens/32-relatorio-erros.png)
+
+**Passo 27:** Finalizado o processo de upload da planilha, retorne para a tela de sua contratação para finalizar a configuração de seus itens.
+
+**Passo 28:** Para prosseguir com a configuração dos itens de sua licitação, clique em "Expandir".
+
+![Tela 34](Imagens/34-expandir-itens.png)
+
+**Passo 29:** Em Detalhes, selecione o Critério de Julgamento.
+
+![Tela 36](Imagens/36-criterio-julgamento.png)
+
+**Passo 30:** Selecione o Tipo de variação de lances e o Intervalo Mínimo Entre Lances.
+
+![Tela 37](Imagens/37-variacao-lances.png)
+
+**Passo 31:** Em seguida, clique em "Salvar".
+
+![Tela 38](Imagens/38-salvar-configuracao.png)
+
+**Passo 32:** Em Locais de Entrega, clique em "+Local de entrega".
+
+![Tela 39](Imagens/39-local-entrega.png)
+
+**Passo 33:** Adicione um local de entrega e a quantidade de itens que deverão ser entregues nesse local.
+
+!!! note "Nota"
+    Pode ser incluído mais de um (1) local de entrega.
+
+![Tela 40](Imagens/40-adicionar-local.png)
+
+!!! warning "Atenção"
+    Você também poderá atribuir um local de entrega a vários itens simultaneamente.
+
+**Passo 34:** Para isso, na página inicial dos itens da contratação, selecione os itens que têm o mesmo endereço de entrega, clicando na caixa ao lado da descrição dos itens e clique em "Adicionar Locais de Entrega".
+
+![Tela 43](Imagens/43-selecionar-itens.png)
+
+**Passo 35:** Atribua o endereço de entrega para todos os itens e as quantidades individuais.
+
+![Tela 45](Imagens/45-atribuir-endereco.png)
+
+**Passo 36:** Salve as informações.
+
+![Tela 46](Imagens/46-salvar-informacoes.png)
+
+**Passo 37:** Na aba Benefícios, poderão ser atribuídos Benefícios para ME/EEPP, margem de preferência e exigência de conteúdo nacional. Se precisar de ajuda sobre cada tipo de benefício, clique no ícone ? para acessar o conteúdo de ajuda. Repita os passos acima para todos os itens da contratação.
+
+![Tela 41](Imagens/41-beneficios.png)
+
+## Como formar grupos de itens em licitações
+
+Você poderá formar grupos de itens para sua contratação. Para isso, siga os passos abaixo.
+
+**Passo 38:** Na aba Itens/Grupos, selecione os itens que deseja agrupar, e clique em "Criar Grupo".
+
+![Tela 47](Imagens/47-criar-grupo.png)
+
+**Passo 39:** Dê um Apelido para o grupo.
+
+![Tela 48](Imagens/48-apelido-grupo.png)
+
+**Passo 40:** Selecione o critério de julgamento e clique em "Confirmar".
+
+![Tela 49](Imagens/49-confirmar-criterio.png)
+
+**Passo 41:** Atribua os benefícios ao grupo e salve.
+
+![Tela 50](Imagens/50-beneficios-grupo.png)
+
+**Passo 42:** Finalize a configuração dos itens do grupo e clique em "Salvar".
+
+![Tela 52](Imagens/52-salvar-grupo.png)
+
+<br>
+
+# 4. ANEXOS, RESPONSÁVEIS E PUBLICAÇÃO
+
+## Inclusão de anexos e artefatos vinculados
+
+**Passo 43:** Na aba Anexos, podem ser vinculados artefatos digitais da contratação ou documentos complementares. Para vincular os artefatos, clique em "+Vincular".
+
+![Tela 54](Imagens/tela54.png)
+
+**Passo 44:** Selecione o tipo de artefato para pesquisa.
+
+![Tela 55](Imagens/tela55.png)
+
+**Passo 45:** Selecione o documento e clique em "Vincular".
+
+![Tela 56](Imagens/tela56.png)
+
+**Passo 46:** Para anexar outros documentos, clique em "+Anexar".
+
+![Tela 58](Imagens/tela58.png)
+
+**Passo 47:** Selecione o tipo de anexo para pesquisa.
+
+![Tela 59](Imagens/tela59.png)
+
+**Passo 48:** Selecione o arquivo e clique em "Anexar".
+
+![Tela 60](Imagens/tela60.png)
+
+!!! warning "Atenção"
+    É necessário juntar, no mínimo, o edital aos arquivos anexos.
+
+## Inclusão de responsáveis
+
+**Passo 49:** Na aba Responsáveis devem ser incluídas informações dos responsáveis. Para isso, clique em "+Adicionar".
+
+![Tela 63](Imagens/tela63.png)
+
+**Passo 50:** Insira o CPF e o e-mail do responsável, selecione seu Cargo/Função e clique em "Adicionar".
+
+![Tela 64](Imagens/tela64.png)
+
+!!! warning "Atenção"
+    IMPORTANTE: É necessário indicar, entre os responsáveis, um servidor como responsável pela publicação na Imprensa Nacional que deverá ser cadastrado com a Imprensa Nacional para essa função.
+    
+    Devem ser inseridos, no mínimo, os responsáveis:
+    * Pregão - Pregoeiro
+    * Concorrência e Concurso - Agente de contratação ou membro de comissão de contratação
+
+**Passo 51:** Depois de preencher essas informações, clique em "Concluir" para que a contratação seja encaminhada para publicação.
+
+![Tela 65](Imagens/tela65.png)
+
+**Passo 52:** Para visualizar a prévia da matéria do Diário Oficial da União, clique em "Visualizar prévia". Verifique os dados apresentados.
+
+![Tela 66](Imagens/tela66.png)
+
+**Passo 53:** Na página de Resumo da Contratação clique em "Divulgar a contratação". A contratação será divulgada no PNCP. Para visualizá-la, vá para a tela inicial do Novo Divulgação de Compras, escolha a aba "Contratações em Andamento" e clique no número da contratação.
+
+![Tela 68](Imagens/tela68.png)
+
+Sua contratação poderá receber propostas conforme as datas especificadas na aba Dados básicos da contratação. Após a data final, será aberta a etapa de lances. Para acompanhamento desta etapa, acesse o manual de sala de disputa.
+
+<br>
+
+# 5. SISTEMA DE REGISTRO DE PREÇOS
+
+Para realizar uma licitação no sistema de registro de preços, será necessário vincular uma IRP à sua contratação. Para isso, sua contratação já deve existir no Novo Divulgação de Compras - seja por meio da integração com o PGC ou seguindo os passos 1 a 5 deste tutorial.
+
+**Passo 1:** Para criar sua IRP, na área de trabalho do governo, acesse o menu do usuário e clique no ícone "IRP".
+
+![Tela 71](Imagens/tela71.png)
+
+**Passo 2:** Selecione o perfil "Gerenciador" ou "Gerenciador e Participante".
+
+![Tela 72](Imagens/tela72.png)
+
+**Passo 3:** Em IRP, selecione "Nova Intenção de Registro de Preços".
+
+![Tela 73](Imagens/tela73.png)
+
+**Passo 4:** Defina o fundamento legal.
+
+![Tela 74](Imagens/tela74.png)
+
+**Passo 5:** Em Modalidade da compra, selecione a modalidade desejada.
+
+![Tela 75](Imagens/tela75.png)
+
+**Passo 6:** Selecione o artigo e inciso que fundamentam a contratação.
+
+![Tela 76](Imagens/tela76.png)
+
+**Passo 7:** Para vincular sua Intenção de Registro de Preços (IRP) a contratação no Novo Divulgação de Compra, digite o número da UASG, o número da contratação e o ano.
+
+![Tela 77](Imagens/tela77.png)
+
+**Passo 8:** Finalize o cadastro de sua IRP e clique em "Transferir para a Contratação". A IRP foi transferida para a contratação.
+
+![Tela 78](Imagens/tela78.png)
+
+**Passo 9:** Retorne ao Novo DC e repita os procedimentos do Passo 6 em diante da primeira etapa desse tutorial.
 
 <br>
 <div style="text-align: right; margin: 10px 0;">
